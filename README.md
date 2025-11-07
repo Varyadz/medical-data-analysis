@@ -33,7 +33,7 @@ Feature engineering
 
 ## Технологии
 
-- **Python 3.8+**
+- **Python**
 - **Pandas, NumPy** - обработка данных
 - **Scikit-learn** - ML модели
 - **XGBoost** - градиентный бустинг
